@@ -10,3 +10,7 @@ My favorite Team who plays football is Portuguese Football Team
 1. Cristiano Ronaldo
 2. William Carvalho
 3. Bruno Fernandes
+
+* New England Patriots
+- Las Vegas Raiders
++ Green Bay Packers
