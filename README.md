@@ -29,3 +29,11 @@ Travellng is an great experience that one would interact with new people around 
 |   Pakistan              |  To vist Badshahi Mosque, Deosai National Park     |   20              |
 |   Dubai                 |  To vist Burj Khalifa, Dubai Park                  |   15              |
 |   Puerto Rice           |  To vist places like El Yunque, Faro Los Morrillos |   10              |
+
+****
+
+### Funny Quotes
+
+> 1. “Better to remain silent and be thought a fool than to speak out and remove all doubt.” by _Abraham Lincoln_
+> 2. “I love being married. It’s so great to find that one special person you want to annoy for the rest of your life.” by *Rita Rudner*
+
