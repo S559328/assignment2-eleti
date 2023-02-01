@@ -16,3 +16,16 @@ My favorite Team who plays football is Portuguese Football Team
 + Green Bay Packers
 
 [Link for AboutMe file](https://github.com/S559328/assignment2-eleti/blob/main/AboutMe.md)
+
+****
+
+### Places I recommend to Vist:
+
+Travellng is an great experience that one would interact with new people around the world. We can expereince different tastes of food tarvel. We need get more ideas to tarvel if we have freedom to travel. If we The countries which I would like to recommend to others are listed below:
+
+|   **Country Name**      |    **Reason to Vist**                              | **Days Spend**    |
+|-------------------------|----------------------------------------------------|-------------------|
+|   Egypt                 |  To vist Abu Simbel Temple, Valley of the Kings    |   15              |
+|   Pakistan              |  To vist Badshahi Mosque, Deosai National Park     |   20              |
+|   Dubai                 |  To vist Burj Khalifa, Dubai Park                  |   15              |
+|   Puerto Rice           |  To vist places like El Yunque, Faro Los Morrillos |   10              |
