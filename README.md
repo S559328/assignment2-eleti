@@ -37,3 +37,21 @@ Travellng is an great experience that one would interact with new people around 
 > 1. “Better to remain silent and be thought a fool than to speak out and remove all doubt.” by _Abraham Lincoln_
 > 2. “I love being married. It’s so great to find that one special person you want to annoy for the rest of your life.” by *Rita Rudner*
 
+----
+
+### Code Snippet
+
+Sample Question: <https://stackoverflow.com/questions/3003145/how-to-get-the-client-ip-address-in-php#:~:text=The%20answer%20is%20to%20use,return%20the%20client's%20IP%20address.>
+
+~~~~
+if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
+     $ip=$_SERVER['HTTP_CLIENT_IP'];
+} elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
+     $ip=$_SERVER['HTTP_X_FORWARDED_FOR'];
+} else {
+     $ip=$_SERVER['REMOTE_ADDR'];
+}
+~~~~
+
+[Click here for the sample Snippet Reference Link](https://css-tricks.com/snippets/php/get-users-ip-address/)
+
